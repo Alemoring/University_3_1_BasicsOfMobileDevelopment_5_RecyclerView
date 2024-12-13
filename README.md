@@ -1,4 +1,8 @@
 # Вариант 
 ## Прокат авто и велосипедов
-1) 2 — Navigation Drawer (Navigation)
-2) 2 — Из других окон в начальное (Transfer Data)
+2 1 3 3 1
+1) 2 — Горизонтальная (Orientation)
+2) 1 — Количество элементов в строке(столбце) (Number of elements in row (column))
+3) 3 - С помощью свайпа (Create)
+4) 3 - С помощью свайпа (Update)
+5) 1 - С помощью кнопки во ViewHolder (Delete)
